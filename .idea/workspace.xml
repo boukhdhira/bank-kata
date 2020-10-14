@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f3d6353-b21f-4d69-ba03-357a9e7e9999" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/ApplicationStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/business/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/business/Amount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/business/Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/business/StatementLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/business/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bank/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bank/AmountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bank/StatementLineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bank/StatementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bank/TransactionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bank/helper/TransactionBuilder.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iryfKCDtagqnLTcnY1dVKLhA3C" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.bankkata_jbehave [clean,install]">
+    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankkata_jbehave" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bank" />
+      <option name="MAIN_CLASS_NAME" value="com.bank.AccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.should_not_add_statement_When_insufficient_balance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankkata_jbehave" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bank" />
+      <option name="MAIN_CLASS_NAME" value="com.bank.AccountTest" />
+      <option name="METHOD_NAME" value="should_not_add_statement_When_insufficient_balance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankkata_jbehave" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bank" />
+      <option name="MAIN_CLASS_NAME" value="com.bank.AmountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatementLineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankkata_jbehave" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bank" />
+      <option name="MAIN_CLASS_NAME" value="com.bank.StatementLineTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankkata_jbehave" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bank" />
+      <option name="MAIN_CLASS_NAME" value="com.bank.StatementTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bankkata_jbehave [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AccountTest" />
+      <item itemvalue="Maven.bankkata_jbehave [clean,install]" />
+      <item itemvalue="JUnit.AccountTest.should_not_add_statement_When_insufficient_balance" />
+      <item itemvalue="JUnit.AmountTest" />
+      <item itemvalue="JUnit.StatementLineTest" />
+      <item itemvalue="JUnit.StatementTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StatementTest" />
+        <item itemvalue="JUnit.StatementLineTest" />
+        <item itemvalue="JUnit.AmountTest" />
+        <item itemvalue="JUnit.AccountTest" />
+        <item itemvalue="JUnit.AccountTest.should_not_add_statement_When_insufficient_balance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f3d6353-b21f-4d69-ba03-357a9e7e9999" name="Default Changelist" comment="" />
+      <created>1602680107132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602680107132</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bank/business/Account.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
